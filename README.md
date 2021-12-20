@@ -16,7 +16,7 @@ The Heros NFT Marketplace Boilerplate project is meant to be as simple and usabl
 
 1. Fork the project, then clone down. Example:
 ```
-git clone git@github.com:black-wyvern-dev/basic_nft_template.git
+git clone git@github.com:ryosha5140/basic_nft_template.git
 ```
 
 2. Build the project. Example:
