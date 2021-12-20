@@ -14,19 +14,14 @@ The Heros NFT Marketplace Boilerplate project is meant to be as simple and usabl
 
 ### Installation
 
-1. Fork the project, then clone down. Example:
-```
-git clone git@github.com:ryosha5140/basic_nft_template.git
-```
-
-2. Build the project. Example:
+1. Build the project. Example:
 ```
 cd basic_nft_template
 yarn install
 yarn build
 ```
 
-3. Define your environment variables using the instructions below, and start up the server with `npm start`.
+2. Define your environment variables using the instructions below, and start up the server with `npm start`.
 
 #### Environment Variables
 
